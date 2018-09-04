@@ -1,0 +1,40 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ 
+ .pic{position: absolute;}
+ .pic1{
+ 	top: 50px;
+ 	left: 50px;
+ 	z-index: 1;
+ }
+.pic2{
+ 	top: 50px;
+ 	left: 690px;
+ 	z-index: 1;
+ }
+.pic3{
+ 	top: 100px;
+ 	left: 210px;
+ 	z-index: 2;
+ }
+.pic4{
+ 	top: 100px;
+ 	left: 530px;
+ 	z-index: 2;
+ }
+.pic5{
+ 	top: 152px;
+ 	left:370px;
+ 	z-index: 3;
+ }
+.pic img{
+	width: 200px;
+	height: 300px;
+	padding: 10px;
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px #ffe;
+	cursor: pointer;
+}
